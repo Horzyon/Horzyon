@@ -8,7 +8,7 @@
 
 ## 🎮 About Me
 
-- 🎯 Roblox Industrialist player & developer
+- 🎯 Roblox Industrialist player
 - 💻 Python enthusiast
 - 🛠️ Creating tools for the gaming community
 - 🌱 Always learning new things
