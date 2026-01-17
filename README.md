@@ -46,8 +46,8 @@ A modern unit converter for Roblox Industrialist with a sleek interface and mult
 
 ## 📫 How to Reach Me
 
-- 💬 Discord: *[Ton Discord si tu veux]*
-- 🎮 Roblox: *[Ton username Roblox si tu veux]*
+- 💬 Discord: *horzyon*
+- 🎮 Roblox: *H0rzyon*
 
 ---
 
